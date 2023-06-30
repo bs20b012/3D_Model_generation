@@ -3,7 +3,7 @@ This repository contains code for generating 3D mesh from 2D images. Results are
 Hugging Face transformers model was used here.
 ## Pipeline:
 <-- Data preparation>
--- Model Selection
+<-- Model Selection>
 -- Heatmap generation
 -- Point cloud generation
 -- 3D mesh generation
